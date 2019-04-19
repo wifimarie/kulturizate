@@ -1,3 +1,3 @@
 # kulturizate
 
-primer proyecto con bootstrap 4.
+primer proyecto con bootstrap 4
